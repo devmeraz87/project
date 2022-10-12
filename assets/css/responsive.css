@@ -1,0 +1,887 @@
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1800px) {
+  
+	.hero-fl {
+		padding: 60px 63px;
+	  }
+	  .hero-title h3 {
+		font-size: 98px;
+		line-height: 80px;
+	  }
+	  .dash-left {
+		width: 18%;
+	  }
+	  .dash-right {
+		width: 82%;
+		margin-left: auto;
+	  }
+	  .single-slide h3 {
+		font-size: 55px;
+	  }.dash-menu li a {
+		font-size: 18px;
+	}
+	
+	.header-btn a {
+		font-size: 16px;
+	}
+	
+	  
+    
+	.city__right {
+		width: 100%;
+		height: 100%;
+		padding-left: 30px;
+	} 
+	 .city__text h1 {
+		font-size: 115px;
+		z-index: 9;
+		line-height: 123px;
+	}   
+	 .city__area {
+		width: 100%;
+		height: 930px;
+	}   
+	 .video {
+		width: 568px;
+		height: 332px;
+		position: absolute;
+		top: 33%;
+		left: auto;
+		right: 29px;
+	}   
+		
+	 .city__text p {
+		font-size: 25px;
+		line-height: 40px;
+		margin-bottom: 51px;
+		display: block;
+	}   
+	  .buind__clr h4 {
+		margin: 0;
+		font-size: 52px;
+	}  
+		
+	 .build__white h4 {
+		margin: 0;
+		font-size: 48px;
+	}   
+	.buy__text h3 {
+		font-size: 37px;
+		margin-bottom: 18px;
+	}    
+	 .toffee__img {
+		position: absolute;
+		top: 25%;
+		right: 0;
+		max-width: 387px;
+		display: none;
+	}   
+		
+	   .await__tx p {
+		margin: 0;
+		font-size: 15px;
+		color: #FFFFFF;
+		text-align: right;
+		padding-right: 50px;
+	} 
+		
+		
+.place__text h4 {
+  font-size: 48px;
+  max-width: 78%;
+  margin: auto;
+  letter-spacing: 8px;
+}
+.place__area {
+  padding-bottom: 55px;
+}
+.await__tx h4 {
+  font-size: 37px;
+}
+.token-title h3 {
+  font-size: 44px;
+}
+.token-text h3 {
+  font-size: 44px;
+}
+.road-title {
+  position: relative;
+  width: 100%;
+  padding: 0 30px;
+}
+.road-title h3 {
+  font-size: 44px;
+}
+.road-map {
+  width: 86%;
+  padding-left: 64px;
+  padding-right: 139px;
+}
+.buy__text {
+  margin-left: 30px;
+  width: 47%;
+}
+.footer-area {
+  padding-left: 30px;
+}
+.footer-left {
+  width: 40%;
+}
+.footer-right {
+  width: 60%;
+}
+	
+	
+		
+		
+	}
+	
+	/* LG Device :992px. */
+	@media (min-width: 992px) and (max-width: 1200px) {
+		.hero-fl {
+			padding: 60px 63px;
+		  }
+		  .hero-title h3 {
+			font-size: 98px;
+			line-height: 80px;
+		  }
+		  .dash-left {
+			width: 23%;
+			position: absolute;
+			left: -100%;
+			background: #2A2A40;
+			height: 97%;
+			transition: .3s;
+			z-index: 9;
+		  }
+	.bar a {
+	  display: flex;
+	  margin-right: 13px;
+	  text-decoration: none;
+	}
+	.header-btn {
+	  display: none;
+	}
+	
+	.dash-area.active .dash-left {
+	  left: 0;
+	}
+		  .dash-right {
+			width: 100%;
+			margin: 0;
+		  }
+		  .single-slide h3 {
+			font-size: 50px;
+		  }.dash-menu li a {
+			font-size: 18px;
+		}
+		  
+		.header-btn a {
+			font-size: 16px;
+		}
+	
+	
+	
+		.header-logo a img {
+			max-width: 122px;
+		  }
+		  .header__area {
+			height: 89px;
+		  }
+	
+	
+.place__text h4 {
+  font-size: 48px;
+  max-width: 78%;
+  margin: auto;
+}
+.place__area {
+  padding-bottom: 55px;
+}
+.await__tx h4 {
+  font-size: 37px;
+}
+.token-title h3 {
+  font-size: 44px;
+}
+.token-text h3 {
+  font-size: 44px;
+}
+.road-title {
+  position: relative;
+  width: 100%;
+  padding: 0 30px;
+}
+.road-title h3 {
+  font-size: 44px;
+}
+.road-map {
+  width: 100%;
+  padding-left: 64px;
+  padding-right: 139px;
+}
+.footer-area {
+  padding-left: 30px;
+}
+.footer-left {
+  width: 40%;
+}
+.footer-right {
+  width: 60%;
+}
+	
+
+
+
+
+
+
+
+
+	  
+    
+.city__right {
+	width: 100%;
+	height: 100%;
+	padding-left: 30px;
+} 
+ .city__text h1 {
+	font-size: 115px;
+	z-index: 9;
+	line-height: 131px;
+}   
+ .city__area {
+	width: 100%;
+	height: 930px;
+}   
+ .video {
+	width: 568px;
+	height: 332px;
+	position: absolute;
+	top: 33%;
+	left: auto;
+	right: 29px;
+}   
+	
+ .city__text p {
+	font-size: 26px;
+	line-height: 40px;
+	margin-bottom: 51px;
+	display: block;
+}   
+  .buind__clr h4 {
+	margin: 0;
+	font-size: 52px;
+}  
+	
+ .build__white h4 {
+	margin: 0;
+	font-size: unset;
+	width: 100%;
+}   
+.buy__text h3 {
+	font-size: 37px;
+	margin-bottom: 18px;
+}    
+ .toffee__img {
+	position: absolute;
+	top: 25%;
+	right: 0;
+	max-width: 264px;
+	display: none;
+}   
+	
+   .await__tx p {
+	margin: 0;
+	font-size: 15px;
+	color: #FFFFFF;
+	text-align: right;
+	padding-right: 50px;
+} 
+	
+	
+.place__text h4 {
+font-size: 40px;
+max-width: 78%;
+margin: auto;
+letter-spacing: 10px;
+}
+.place__area {
+padding-bottom: 55px;
+}
+.await__tx h4 {
+font-size: 37px;
+}
+.token-title h3 {
+font-size: 44px;
+}
+.token-text h3 {
+font-size: 44px;
+}
+.road-title {
+position: relative;
+width: 100%;
+padding: 0 30px;
+}
+.road-title h3 {
+font-size: 44px;
+}
+.road-map {
+width: 84%;
+padding-left: 64px;
+padding-right: 139px;
+}.build__wrapper {
+  width: 260%;
+}
+.footer-area {
+padding-left: 30px;
+}
+.footer-left {
+width: 40%;
+}
+.footer-right {
+width: 60%;
+}
+.token-area {
+	padding-bottom: 169px;
+}
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	}
+	
+	 
+	/* MD Device :768px. */
+	@media (min-width: 768px) and (max-width: 991px) {
+		.hero-fl {
+			padding: 60px 63px;
+			flex-wrap: wrap;
+		  }
+		  .hero-title h3 {
+			font-size: 98px;
+			line-height: 80px;
+		  }
+		  .dash-left {
+			width: 29%;
+			position: absolute;
+			left: -100%;
+			background: #2A2A40;
+			height: 85%;
+		  }
+		  .dash-right {
+			width: 100%;
+			margin: 0;
+		  }
+		  .single-slide h3 {
+			font-size: 50px;
+		  }.dash-menu li a {
+			font-size: 18px;
+		}
+		  
+		.header-btn a {
+			font-size: 16px;
+		}
+	 
+	.hero-left {
+	  width: 100%;
+	  text-align: center;
+	  order: 2;
+	}
+	.hero-img {
+	  margin: auto;
+	  margin-bottom: 30px;
+	}
+	
+	.header-btn {
+		display: none;
+	}
+	
+	
+	.header-logo a img {
+		max-width: 122px;
+	  }
+	  .header__area {
+		height: 89px;
+	  }
+	
+	
+	  .bar a {
+		display: flex;
+		margin-right: 13px;
+		text-decoration: none;
+	  }
+	  .header-btn {
+		display: none;
+	  }
+	  
+	  .dash-area.active .dash-left {
+		left: 0;
+	  }
+	
+	
+
+
+
+
+
+
+
+	  
+    
+	  .city__right {
+		width: 100%;
+		height: 100%;
+		padding-left: 30px;
+		flex-wrap: wrap;
+		padding-right: 30px;
+	} 
+	 .city__text h1 {
+		font-size: 115px;
+		z-index: 9;
+	}   
+	 .city__area {
+		width: 100%;
+		height: 930px;
+	}   
+	 .video {
+		width: 100%;
+		height: 332px;
+		position: unset;
+		top: 33%;
+		left: auto;
+		right: 29px;
+	}   
+		
+	 .city__text p {
+		font-size: 30px;
+		line-height: 40px;
+		margin-bottom: 51px;
+		display: block;
+	}   
+	  .buind__clr h4 {
+		margin: 0;
+		font-size: 40px;
+	}  
+		
+	 .build__white h4 {
+		margin: 0;
+		font-size: 40px;
+	}   
+	.buy__text h3 {
+		font-size: 34px;
+		margin-bottom: 18px;
+	}    
+	 .toffee__img {
+		position: absolute;
+		top: 25%;
+		right: 0;
+		max-width: 387px;
+		display: none;
+	}   
+		
+	   .await__tx p {
+		margin: 0;
+		font-size: 15px;
+		color: #FFFFFF;
+		text-align: right;
+		padding-right: 50px;
+	} 
+		
+		
+	.place__text h4 {
+	font-size: 40px;
+	max-width: 78%;
+	margin: auto;
+	letter-spacing: 7px;
+	}
+	.place__area {
+	padding-bottom: 55px;
+	}
+	.await__tx h4 {
+	font-size: 37px;
+	}
+	.token-title h3 {
+	font-size: 44px;
+	}
+	.token-text h3 {
+	font-size: 44px;
+	}
+	.road-title {
+	position: relative;
+	width: 100%;
+	padding: 0 30px;
+	}
+	.road-title h3 {
+	font-size: 44px;
+	}
+	.road-map {
+	width: 90%;
+	padding-left: 15px;
+	padding-right: 15px;
+	}
+	.footer-area {
+	padding-left: 30px;
+	}
+	.footer-left {
+	width: 40%;
+	}
+	.footer-right {
+	width: 60%;
+	}
+	.token-area {
+		padding-bottom: 169px;
+	}
+	
+.city__wrapper {
+  flex-wrap: wrap;
+}
+.city__text {
+  padding-top: 100px;
+}
+.buy__text {
+  margin-left: 25px;
+  width: 46%;
+}
+.token-img {
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	}
+	 
+	
+	/* SM Small Device :320px. */
+	@media only screen and (min-width: 320px) and (max-width: 767px) {
+		.hero-fl {
+			padding: 60px 15px;
+			flex-wrap: wrap;
+		  }
+		  .hero-title h3 {
+			font-size: 59px;
+			line-height: 54px;
+		  }
+		  .dash-left {
+			width: 64%;
+			position: absolute;
+			left: -100%;
+			background: #2A2A40;
+			height: 85%;
+		  }
+		  .dash-right {
+			width: 100%;
+			margin: 0;
+		  }
+		  .single-slide h3 {
+			font-size: 30px;
+		  }.dash-menu li a {
+			font-size: 18px;
+		}
+		  
+		.header-btn a {
+			font-size: 16px;
+		}
+	 
+	.hero-left {
+	  width: 100%;
+	  text-align: center;
+	  order: 2;
+	}
+	.hero-img {
+	  margin: auto;
+	  margin-bottom: 30px;
+	  width: 100%;
+	}
+	
+	.header-btn {
+		display: none;
+	}
+	
+	.header-logo a img {
+		max-width: 122px;
+	  }
+	  .header__area {
+		height: 89px;
+		padding: 0 15px;
+	  }
+		
+	.languse {
+	  display: none;
+	}
+	
+	
+	
+	.bar a {
+		display: flex;
+		margin-right: 13px;
+		text-decoration: none;
+	  }
+	  .header-btn {
+		display: none;
+	  }
+	  
+	  .dash-area.active .dash-left {
+		left: 0;
+	  }
+	
+	
+	
+	
+
+
+
+
+
+	  
+    
+	  .city__right {
+		width: 100%;
+		height: 100%;
+		padding-left: 30px;
+		flex-wrap: wrap;
+		padding-right: 30px;
+	} 
+	 .city__text h1 {
+		font-size: 50px;
+		z-index: 9;
+		line-height: 71px;
+	}   
+	 .city__area {
+		width: 100%;
+		height: 930px;
+		/*! display: none; */
+	}   
+	 .video {
+		width: 100%;
+		height: 332px;
+		position: unset;
+		top: 33%;
+		left: auto;
+		right: 29px;
+	}   
+		
+	 .city__text p {
+		font-size: 23px;
+		line-height: 32px;
+		margin-bottom: 30px;
+		display: block;
+	}   
+	  .buind__clr h4 {
+		margin: 0;
+		font-size: 22px;
+	}  
+		
+	 .build__white h4 {
+		margin: 0;
+		font-size: 22px;
+	}   
+	.buy__text h3 {
+		font-size: 34px;
+		margin-bottom: 18px;
+	}    
+	 .toffee__img {
+		position: absolute;
+		top: 25%;
+		right: 0;
+		max-width: 387px;
+		display: none;
+	}   
+		
+	   .await__tx p {
+		margin: 0;
+		font-size: 15px;
+		color: #FFFFFF;
+		text-align: right;
+		padding-right: 50px;
+		padding: 0;
+		text-align: center;
+	} 
+		
+		
+	.place__text h4 {
+	font-size: 26px;
+	max-width: 78%;
+	margin: auto;
+	letter-spacing: 2px;
+	line-height: 31px;
+	}
+	.place__area {
+	padding-bottom: 55px;
+	/*! display: none; */
+	}
+	.await__tx h4 {
+	font-size: 37px;
+	text-align: center;
+	}
+	.token-title h3 {
+	font-size: 22px;
+	}
+	.token-text h3 {
+	font-size: 44px;
+	}
+	.road-title {
+	position: relative;
+	width: 100%;
+	padding: 0 30px;
+	}
+	.road-title h3 {
+	font-size: 44px;
+	}
+	.road-map {
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+	}
+	.footer-area {
+	padding-left: 30px;
+	}
+	.footer-left {
+	width: 100%;
+	margin-bottom: 50px;
+	}
+	.footer-right {
+	width: 100%;
+	}
+	.token-area {
+		padding-bottom: 169px;
+	}
+	
+.city__wrapper {
+  flex-wrap: wrap;
+}
+.city__text {
+  padding-top: 100px;
+}
+.buy__text {
+  margin-left: 0;
+  width: 100%;
+}
+.token-img {
+  margin: 0;
+}
+
+
+	
+.build__area {
+	height: 36px;
+	/*! display: none; */
+  }
+  .buy__fx {
+	flex-wrap: wrap;
+  }
+  .buy__img {
+	width: 100%;
+	margin-bottom: 30px;
+  }
+  .revel__area {
+	padding-top: 100px;
+	/*! display: none; */
+	overflow: hidden;
+  }
+  .revel__tx h5 {
+	font-size: 32px;
+  }
+  .await--img {
+	display: none;
+  }
+  .await__area {
+	background: #C250F5 !important;
+	text-align: center !important;
+  }
+
+  .token-box {
+	flex-wrap: wrap;
+  }
+  .token-text {
+	padding: 0;
+  }
+  .road-left h3 {
+	font-size: 20px;
+  }
+  .road-arrow {
+	width: 50px;
+	height: 50px;
+  }
+  .road-arrow a {
+	font-size: 14px;
+  }
+  .road-text p {
+	font-size: 13px;
+	line-height: 19px;
+  }
+  .road-right {
+	width: 68%;
+  }
+  .road-text h3 {
+	font-size: 20px;
+  }
+  .road-arrow::before {
+	height: 652%;
+	top: 33px;
+  }
+
+  .road-text {
+	margin-bottom: 10px;
+  }
+  .single-road {
+	margin-bottom: 23px;
+  }
+  .footer-fl {
+	flex-wrap: wrap;
+  }
+  .footer-menu li a {
+	font-size: 14px;
+  }
+  .latters {
+	display: none;
+  }
+
+	
+	
+	
+	
+	
+		
+	}
+		
+	
+	
+	
+	
+	
+	
+	
+	/* SM Small Device :550px. */
+	@media only screen and (min-width: 576px) and (max-width: 767px) {
+	
+		
+	 
+	}
